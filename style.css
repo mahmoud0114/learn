@@ -1,0 +1,9 @@
+h1{
+  color: maroon;
+  background: antiquewhite;
+  border: 3px solid black;
+  border-radius: 100%;
+  padding-left: 7rem;
+  width:50%;
+  margin: 25%;
+}
